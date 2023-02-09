@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -type f -exec 644 -type d -exec chmod 655 .
+chmod -R 755 .
